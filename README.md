@@ -31,7 +31,9 @@
 
 💬 Pregúntame sobre **Python, Android Studio, C#, .NET, .NET Core, Vue.js y sistemas inteligentes**
 
-📫 Contáctame: **tunombre@email.com**
+📫 Contáctame: **CleinerMQ@gmail.com**
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/cleinermartinezquinones)  
+[LinkedIn - Cleiner Martinez Quiñones](https://www.linkedin.com/in/cleinermartinezquinones)
 
 ⚡ Dato curioso: **¡Programo hasta dormido! 😴💻**
 
