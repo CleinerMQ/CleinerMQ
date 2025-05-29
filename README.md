@@ -4,7 +4,6 @@
 <h3 align="center">Apasionado por la programación y la innovación tecnológica</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
 </p>
 
 <div align="center">
@@ -58,8 +57,4 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡Me encanta conectar con nuevas personas!</b> Si quieres decir <b>hola</b>, ¡estaré encantado de conocerte! 😊</em>
 
----
 
-🛠️ *Última edición: 29/05/2025*
-
-Créditos del diseño base: [supravatm](https://github.com/supravatm)
