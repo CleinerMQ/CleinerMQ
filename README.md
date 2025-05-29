@@ -20,7 +20,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/vue-icon.svg" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
