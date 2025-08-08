@@ -27,7 +27,7 @@
 
 🔭 Actualmente trabajando en **proyectos de visión por computadora**
 
-🌱 Aprendiendo **Laravel y desarrollo móvil con Kotlin**
+🌱 Aprendiendo **nest js y Angular**
 
 💬 Pregúntame sobre **Python, Android Studio, C#, .NET, .NET Core, Vue.js y sistemas inteligentes**
 
